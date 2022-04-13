@@ -50,11 +50,14 @@ a {
 
 .content {
   width: 100%;
+  width: 1510px;
+  margin: 0 auto;
 }
 
 .logo {
   text-align: center;
   padding-top: 20px;
+  padding-bottom: 30px;
 }
 
 .logo img {
@@ -63,8 +66,6 @@ a {
 }
 
 .main-text {
-  width: 1510px;
-  margin: 0 auto;
   background-color: #EFEFEF;
   padding: 38px 269px;
   text-align: center;
@@ -78,4 +79,17 @@ a {
 
 .main-text p {
   font-size: 16px;
+}
+
+.Posts {
+  margin-top: 40px;
+  display: flex;
+  margin-left: -25px;
+  margin-right: -25px;
+}
+.posts-item {
+  padding: 0 25px;
+}
+
+.posts-item p img{
 }
