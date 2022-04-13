@@ -91,5 +91,6 @@ a {
   padding: 0 25px;
 }
 
-.posts-item p img{
+.posts-item h2{
+  padding-bottom: 18px;
 }
